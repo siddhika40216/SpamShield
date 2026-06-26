@@ -79,8 +79,7 @@ Prediction records are stored using SQLite database for future reference.
 ## Demo
 
 Live Demo:
-
-[Add your deployed Streamlit application link here]
+https://spamshield-by-siddhika.streamlit.app/
 
 ## Usage
 To use the SMS Spam Detection model on your own machine, follow these steps:
